@@ -1,0 +1,153 @@
+body {
+	/*background-color:#2E3334;*/
+	background-color:#4E5456;
+	color:#EDFBFD;
+	font-family:calibri;
+}
+
+
+#top {
+	background-color:#232627;
+	width:100%;
+	height:8%;
+	position:fixed;
+	left:0%;
+	top:0%;
+	border-bottom:2px solid black;
+	border-radius:2%;
+}
+
+.link {
+	color:white;
+	font-size:160%;
+	text-align:center;
+	padding-top:1%;
+	padding-bottom:1%;
+	top:0%;
+	width:10%;
+	border-left:1px solid #DDF4FC;
+	position:fixed;
+	height:4%;
+}
+
+#home {
+	position:fixed;
+	left:10%;
+
+}
+
+#programs_link {
+	position:fixed;
+	left:20%;
+	border-right:1px solid #DDF4FC;
+}
+
+#main {
+	/*background-color:#272A2B;*/
+	background-color:#2E3334;
+	/*border-top:2px solid black;
+	border-left:1px solid #B7C1C5;
+	border-right:1px solid #B7C1C5;*/
+	border-radius:3%;
+	position:fixed;
+	top:10%;
+	width:45%;
+	height:100%;
+	overflow-y:auto;
+	word-wrap:break-word;
+	left:19%;
+	font-size:115%;
+	padding-top:3%;
+	padding-left:2%;
+}
+
+#hey {
+	text-align:center;
+	color:white;
+	font-size:135%;
+}
+
+#side {
+	background-color:#2E3334;
+	position:relative;
+	
+	border-radius:5%;
+	width:15%;
+	height:25%;
+	left:67%;
+	top:9%;
+}
+
+#pic {
+	position:relative;
+	width:60%;
+	margin-left:19%;
+	margin-top:4%;
+	border-radius:3%;
+}
+
+#the_man {
+	text-align:center;
+	color:white;
+	position:relative;
+	bottom:5%;
+}
+
+#side-bottom {
+	position:relative;
+	width:15%;
+	height:62%;
+	background-color:#2E3334;
+	border-radius:5%;
+	left:67%;
+	top:11%;
+}
+
+#main2 {
+	/*background-color:#272A2B;*/
+	background-color:#2E3334;
+	/*border-top:2px solid black;
+	border-left:1px solid #B7C1C5;
+	border-right:1px solid #B7C1C5;*/
+	border-radius:3%;
+	position:fixed;
+	top:10%;
+	width:58%;
+	height:100%;
+	overflow-y:auto;
+	word-wrap:break-word;
+	left:20%;
+	font-size:115%;
+	padding-top:3%;
+	padding-left:2%;
+}
+
+.program {
+	font-size:125%;
+	position:relative;
+	left:5%;
+}
+
+a:link {
+    color: #EDFBFD; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #EDFBFD;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #EDFBFD;
+    background-color: transparent;
+    text-decoration: none;
+}
